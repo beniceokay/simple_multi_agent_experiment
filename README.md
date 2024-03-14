@@ -1,4 +1,4 @@
-# README for Autonomous Agent Experiments Repository
+# README for Simple Multi Agent Experiments Repository
 
 ## Overview
 
